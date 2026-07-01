@@ -1,0 +1,597 @@
+{
+  "movies": [
+    {
+  "id": "1",
+  "title": "Interstellar",
+  "genre": "Sci-Fi",
+  "rating": 5,
+  "description": "A team of astronauts travel through a wormhole in search of a new home for humanity as Earth becomes increasingly uninhabitable.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+},
+{
+  "id": "2",
+  "title": "Shrek",
+  "genre": "Animation",
+  "rating": 4,
+  "description": "A grumpy ogre embarks on an adventure to rescue a princess and discovers friendship and love along the way.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/7b/Shrek_%282001_animated_feature_film%29.jpg"
+},
+{
+  "id": "3",
+  "title": "Dracula: A Love Tale",
+  "genre": "Fantasy",
+  "rating": 3,
+  "description": "A spin on a classic horror story, this one explores Dracula's quest for his wife's reincarnated soul through time.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Dracula_2025_film_poster.jpg"
+},
+{
+  "id": "4",
+  "title": "Annihilation",
+  "genre": "Sci-Fi",
+  "rating": 4,
+  "description": "A biologist joins an all-female expedition into a mysterious zone known as The Shimmer in search of answers about her husband.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Annihilation_%28film%29.png"
+},
+{
+  "id": "5",
+  "title": "Practical Magic",
+  "genre": "Fantasy",
+  "rating": 5,
+  "description": "Two witch sisters battle a family curse while navigating love, loss, and the supernatural.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Practical_Magic_%28film_poster%29.png"
+},
+{
+  "id": "6",
+  "title": "Sinners",
+  "genre": "Horror",
+  "rating": 5,
+  "description": "Twin brothers return home seeking a fresh start only to confront a terrifying evil waiting for them.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Sinners_%282025_film%29_poster.jpg"
+},
+{
+  "id": "7",
+  "title": "Cleopatra",
+  "genre": "Historical Drama",
+  "rating": 5,
+  "description": "The legendary Queen of Egypt navigates power, politics, and romance with Julius Caesar and Mark Antony.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Cleopatra_poster.jpg"
+},
+{
+  "id": "8",
+  "title": "Fried Green Tomatoes",
+  "genre": "Drama",
+  "rating": 5,
+  "description": "Stories of friendship, resilience, and courage intertwine across generations in the American South.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Fried_Green_Tomatoes_%28poster%29.jpg"
+},
+{
+  "id": "9",
+  "title": "Mildred Pierce",
+  "genre": "Drama",
+  "rating": 4,
+  "description": "A determined single mother builds a successful business while sacrificing everything for her ambitious daughter.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mildred_Pierce_%281945_poster%29.jpg"
+},
+{
+  "id": "10",
+  "title": "Sabrina",
+  "genre": "Romance",
+  "rating": 5,
+  "description": "After returning from Paris, Sabrina unexpectedly captures the hearts of two wealthy brothers.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Sabrina_%281995_film%29.jpg"
+},
+{
+  "id": "11",
+  "title": "Meet Me in St. Louis",
+  "genre": "Musical",
+  "rating": 5,
+  "description": "Four sisters experience love, family, and change in turn-of-the-century St. Louis.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Meet_Me_in_St._Louis_poster.jpg"
+},
+{
+  "id": "12",
+  "title": "Fantastic Mr. Fox",
+  "genre": "Animation",
+  "rating": 5,
+  "description": "A clever fox returns to stealing from local farmers, putting his family and community at risk.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Fantastic_mr_fox.jpg"
+},
+{
+  "id": "13",
+  "title": "The Life Aquatic with Steve Zissou",
+  "genre": "Comedy",
+  "rating": 5,
+  "description": "An eccentric oceanographer embarks on a bizarre expedition to hunt the mythical shark that killed his partner.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Lifeaquaticposter.jpg"
+},
+{
+  "id": "14",
+  "title": "Arrival",
+  "genre": "Sci-Fi",
+  "rating": 5,
+  "description": "A linguist races to communicate with mysterious alien visitors before global conflict erupts.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg"
+},
+{
+  "id": "15",
+  "title": "Everything Everywhere All at Once",
+  "genre": "Sci-Fi",
+  "rating": 5,
+  "description": "A laundromat owner discovers she must connect with alternate versions of herself to save reality.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg"
+},
+{
+  "id": "16",
+  "title": "National Treasure",
+  "genre": "Adventure",
+  "rating": 5,
+  "description": "A treasure hunter follows clues hidden throughout American history in search of a legendary fortune.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Movie_national_treasure.JPG"
+},
+{
+  "id": "17",
+  "title": "Oppenheimer",
+  "genre": "Drama",
+  "rating": 4,
+  "description": "The story of physicist J. Robert Oppenheimer and the creation of the atomic bomb.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barbie_2023_poster.jpg"
+},
+{
+  "id": "18",
+  "title": "Barbie",
+  "genre": "Comedy",
+  "rating": 4,
+  "description": "Barbie leaves Barbieland and discovers the beauty and complexity of the real world.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg"
+},
+{
+  "id": "19",
+  "title": "Knives Out",
+  "genre": "Mystery",
+  "rating": 4,
+  "description": "A detective investigates the suspicious death of a wealthy mystery novelist.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg"
+},
+{
+  "id": "20",
+  "title": "Glass Onion",
+  "genre": "Mystery",
+  "rating": 2,
+  "description": "Benoit Blanc solves another elaborate mystery on a billionaire's private island.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Glass_Onion_poster.jpg"
+},
+{
+  "id": "21",
+  "title": "Jennifer's Body",
+  "genre": "Horror",
+  "rating": 4,
+  "description": "A possessed high school cheerleader develops a deadly appetite for her male classmates. This movie is also insanely ahead of its time.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Jennifers_body_ver2.jpg"
+},
+{
+  "id": "22",
+  "title": "The Menu",
+  "genre": "Thriller",
+  "rating": 4,
+  "description": "Guests at an exclusive restaurant discover that their luxurious meal comes with deadly surprises.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/db/The_Menu_%282022_film%29.jpg"
+},
+{
+  "id": "23",
+  "title": "The Substance",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "A fading celebrity experiments with a mysterious treatment promising a younger version of herself.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Substance_poster.jpg"
+},
+{
+  "id": "24",
+  "title": "Little Women",
+  "genre": "Drama",
+  "rating": 4,
+  "description": "The March sisters pursue love, ambition, and independence while growing into adulthood.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Little_Women_%282019_film%29.jpeg"
+},
+{
+  "id": "25",
+  "title": "Don't Worry Darling",
+  "genre": "Thriller",
+  "rating": 4,
+  "description": "A woman living in a seemingly perfect community begins to suspect that something is terribly wrong. This movie also had insane drama behind the scenes between cast members and its palpable on screen.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Don%27t_Worry_Darling_Poster_2.jpg"
+},
+{
+  "id": "26",
+  "title": "Ever After",
+  "genre": "Romance",
+  "rating": 4,
+  "description": "A grounded retelling of Cinderella where a clever young woman challenges class expectations and finds love on her own terms.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6e/Everafterposter.jpg"
+},
+{
+  "id": "27",
+  "title": "Penelope",
+  "genre": "Fantasy",
+  "rating": 3,
+  "description": "A young woman born under a family curse learns to define herself beyond what others expect her to be.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Penelope_Poster_2.jpg"
+},
+{
+  "id": "28",
+  "title": "Stardust",
+  "genre": "Fantasy",
+  "rating": 4,
+  "description": "A young man crosses into a magical kingdom to retrieve a fallen star and discovers adventure, danger, and romance. A classic. This shit ahd me believing in magic as a kid.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/Stardust_promo_poster.jpg"
+},
+{
+  "id": "29",
+  "title": "Pride & Prejudice",
+  "genre": "Romance",
+  "rating": 4,
+  "description": "Elizabeth Bennet and Mr. Darcy clash, misunderstand one another, and slowly discover a deeper connection.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Prideandprejudiceposter.jpg"
+},
+{
+  "id": "30",
+  "title": "Memoirs of a Geisha",
+  "genre": "Drama",
+  "rating": 4,
+  "description": "A young girl is trained in the world of geisha and learns to navigate beauty, ambition, love, and survival. Also a really sad movie, wouldn't reccomend a seccond watch.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Memoirs_of_a_Geisha_Poster.jpg"
+},
+{
+  "id": "31",
+  "title": "The Princess Diaries",
+  "genre": "Comedy",
+  "rating": 4,
+  "description": "An awkward teenager discovers she is heir to a European throne and must decide what kind of princess she wants to become.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/58/Princess_diaries_ver1.jpg"
+},
+{
+  "id": "32",
+  "title": "The Craft",
+  "genre": "Fantasy",
+  "rating": 4,
+  "description": "A group of teenage girls experiment with witchcraft, power, and revenge with increasingly dangerous consequences. Film crew reported paranormal activity during the filming of this. Scared the crap out of me as a kid.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/The_craft_movie_poster.jpg"
+},
+{
+  "id": "33",
+  "title": "Coraline",
+  "genre": "Animation",
+  "rating": 4,
+  "description": "A curious girl discovers a strange alternate world that seems perfect at first but hides something sinister.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Coraline_poster.jpg"
+},
+{
+  "id": "34",
+  "title": "Chicago",
+  "genre": "Musical",
+  "rating": 4,
+  "description": "Two women accused of murder compete for fame, attention, and freedom in a dazzling world of crime and performance. He had it coming.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f6/Chicago_%282002_film%29.png"
+},
+{
+  "id": "35",
+  "title": "Death Becomes Her",
+  "genre": "Comedy",
+  "rating": 4,
+  "description": "Two rivals drink a potion promising eternal youth and discover that immortality has some very strange side effects. Meryl and Goldie at their best.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Death_Becomes_Her_poster.jpg"
+},
+{
+  "id": "36",
+  "title": "The Others",
+  "genre": "Horror",
+  "rating": 4,
+  "description": "A woman living with her children in a dark old house becomes convinced that something supernatural is haunting them. Really good take on Turn of the Screw.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/TheOthers.jpg"
+},
+{
+  "id": "37",
+  "title": "Edward Scissorhands",
+  "genre": "Fantasy",
+  "rating": 4,
+  "description": "A gentle artificial man with scissors for hands is taken in by a suburban family and struggles to belong.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Edwardscissorhandsposter.JPG"
+},
+{
+  "id": "38",
+  "title": "La La Land",
+  "genre": "Musical",
+  "rating": 3,
+  "description": "A jazz musician and an aspiring actress fall in love while chasing their dreams in Los Angeles. Took my mom to see this for christmas one year and cannot belive they let Emma Stone sing this much in a movie. A rubber sole sounds better being dragged across linoleum",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png"
+},
+{
+  "id": "39",
+  "title": "The Devil Wears Prada",
+  "genre": "Comedy",
+  "rating": 3,
+  "description": "A young assistant tries to survive working for a powerful fashion magazine editor while figuring out what success means to her.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Devil_Wears_Prada_main_onesheet.jpg"
+},
+{
+  "id": "40",
+  "title": "Challengers",
+  "genre": "Drama",
+  "rating": 3,
+  "description": "Three tennis players navigate ambition, rivalry, and complicated relationships over years of competition. Gay tension over a woman was insane.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Challengers_2024_poster.jpeg"
+},
+{
+  "id": "41",
+  "title": "Saltburn",
+  "genre": "Drama",
+  "rating": 3,
+  "description": "A university student becomes obsessed with a wealthy classmate and is drawn into his family's strange, privileged world. I did not like this film. Emerald Fennel tried way too hard.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/52/Saltburn_Film_Poster.jpg"
+},
+{
+  "id": "42",
+  "title": "Midsommar",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "A grieving woman travels with friends to a remote Swedish festival that becomes increasingly disturbing.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/47/Midsommar_%282019_film_poster%29.png"
+},
+{
+  "id": "43",
+  "title": "Poor Things",
+  "genre": "Fantasy",
+  "rating": 3,
+  "description": "A young woman brought back to life embarks on a strange journey of independence, discovery, and self-creation.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/Poor_Things_poster.jpg"
+},
+{
+  "id": "44",
+  "title": "The Lighthouse",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "Two lighthouse keepers descend into paranoia, isolation, and madness while trapped on a remote island. Not bad.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/The_Lighthouse.jpeg"
+},
+{
+  "id": "45",
+  "title": "Twisters",
+  "genre": "Action",
+  "rating": 3,
+  "description": "Storm chasers face dangerous tornadoes while testing new technology and confronting their pasts. I waited the whole movie for them to kiss and was mad when they didn't.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/24/Twisters_Official_US_Theatrical_Poster.jpg"
+},
+{
+  "id": "46",
+  "title": "The Gorge",
+  "genre": "Sci-Fi",
+  "rating": 2,
+  "description": "Two highly trained operatives guard opposite sides of a mysterious gorge and uncover something far more dangerous below. Genuinley bad film and concept, but had good actors in it.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Gorge_%28film%29_poster.jpg"
+},
+{
+  "id": "47",
+  "title": "A Quiet Place: Day One",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "As terrifying creatures invade New York City, survivors must learn to stay silent in order to stay alive.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/A_Quiet_Place_Day_One_%282024%29_poster.jpg"
+},
+{
+  "id": "48",
+  "title": "Longlegs",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "An FBI agent investigates a disturbing series of murders connected to an elusive and unsettling killer. Not even scary, Nicholas Cage is a freak but we knew that.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Longlegs_film_poster.jpg"
+},
+{
+  "id": "49",
+  "title": "The Batman",
+  "genre": "Action",
+  "rating": 3,
+  "description": "Batman investigates corruption in Gotham while tracking a killer who leaves cryptic clues behind.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg"
+},
+{
+  "id": "50",
+  "title": "Ella Enchanted",
+  "genre": "Fantasy",
+  "rating": 3,
+  "description": "A young woman cursed with obedience sets out to reclaim her freedom and change her own story.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/EllaEnchantedFilmPoster.jpg"
+},
+{
+  "id": "51",
+  "title": "13 Going on 30",
+  "genre": "Comedy",
+  "rating": 3,
+  "description": "A thirteen-year-old girl magically wakes up as her thirty-year-old self and learns what really matters.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/13_Going_on_30_film_poster.png"
+},
+{
+  "id": "52",
+  "title": "She's the Man",
+  "genre": "Comedy",
+  "rating": 3,
+  "description": "A teenage girl disguises herself as her brother to play soccer and ends up in a complicated romantic mess. Shakespear, but make it modern. I hope Amanda Bynes is okay.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/60/She%27s_the_man_poster.jpg"
+},
+{
+  "id": "53",
+  "title": "Marie Antoinette",
+  "genre": "Historical Drama",
+  "rating": 3,
+  "description": "A stylized portrait of the young queen of France as she navigates luxury, loneliness, and public scrutiny. Some of Sofia Coppola's best work. The converse will always be the best detali of this movie. Emerald Fennel wishes.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Marie_Antoinette_%282006_film%29.png"
+},
+{
+  "id": "54",
+  "title": "The Prestige",
+  "genre": "Mystery",
+  "rating": 3,
+  "description": "Two rival magicians become consumed by obsession, secrecy, and the pursuit of the perfect illusion.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg"
+},
+{
+  "id": "55",
+  "title": "Corpse Bride",
+  "genre": "Animation",
+  "rating": 3,
+  "description": "A nervous groom accidentally proposes to a mysterious bride from the land of the dead.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Corpse_Bride_film_poster.jpg"
+},
+{
+  "id": "56",
+  "title": "The Holiday",
+  "genre": "Romance",
+  "rating": 3,
+  "description": "Two women swap homes for the holidays and unexpectedly find new beginnings and romance. Idc Jack Black is hot.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Theholidayposter.jpg"
+},
+{
+  "id": "57",
+  "title": "Sleepy Hollow",
+  "genre": "Horror",
+  "rating": 3,
+  "description": "Ichabod Crane investigates a series of supernatural murders connected to the legendary Headless Horseman.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Sleepy_hollow_ver2.jpg"
+},
+{
+  "id": "58",
+  "title": "Holes",
+  "genre": "Adventure",
+  "rating": 3,
+  "description": "A boy sent to a desert detention camp uncovers secrets tied to his family history and a buried treasure.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Holesposter03.jpg"
+},
+{
+  "id": "59",
+  "title": "The Parent Trap",
+  "genre": "Comedy",
+  "rating": 3,
+  "description": "Twin sisters separated at birth meet at summer camp and scheme to reunite their parents. This got me addicted to oreo's and peanutbutter.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Parenttrapposter.jpg"
+},
+{
+  "id": "60",
+  "title": "Sky High",
+  "genre": "Comedy",
+  "rating": 2,
+  "description": "The son of famous superheroes tries to find his place at a high school for kids with powers. I liked the plant girl.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/29/Sky_High_movie_poster.jpg"
+},
+{
+  "id": "61",
+  "title": "Ghosted",
+  "genre": "Action",
+  "rating": 2,
+  "description": "A man discovers the woman he likes is secretly a spy and gets pulled into a dangerous mission.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Ghosted_Promo.png"
+},
+{
+  "id": "62",
+  "title": "Morbius",
+  "genre": "Action",
+  "rating": 2,
+  "description": "A scientist searching for a cure transforms himself into a living vampire with dangerous new powers. Jared Leto scares the shit out of me I feel like he can read peoles minds.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Morbius_%28film%29_poster.jpg"
+},
+{
+  "id": "63",
+  "title": "Red One",
+  "genre": "Action",
+  "rating": 2,
+  "description": "A holiday rescue mission pulls together unlikely allies after Santa Claus is kidnapped.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Red_One_poster.jpg"
+},
+{
+  "id": "64",
+  "title": "Uncharted",
+  "genre": "Adventure",
+  "rating": 2,
+  "description": "A young treasure hunter joins a risky expedition in search of a long-lost fortune. Video game was way better.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Uncharted_Official_Poster.jpg"
+},
+{
+  "id": "65",
+  "title": "Jurassic World Dominion",
+  "genre": "Action",
+  "rating": 2,
+  "description": "Humans and dinosaurs struggle to coexist as familiar heroes reunite to uncover a dangerous conspiracy.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/JurassicWorldDominion_Poster.jpeg"
+},
+{
+  "id": "66",
+  "title": "The Gray Man",
+  "genre": "Action",
+  "rating": 2,
+  "description": "A CIA operative becomes the target of a global manhunt after uncovering agency secrets.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/59/The_Gray_Man_poster.png"
+},
+{
+  "id": "67",
+  "title": "Signs",
+  "genre": "Sci-Fi",
+  "rating": 2,
+  "description": "A family on a farm confronts fear, faith, and strange crop circles during a possible alien invasion. The chokehold this movie had on everyone was terrifying. I watched this at my baby sitters house when I was 9 and couldn't sleep for weeks.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/08/The_Signs_movie.jpg"
+},
+{
+  "id": "68",
+  "title": "The Village",
+  "genre": "Thriller",
+  "rating": 2,
+  "description": "A secluded community lives in fear of mysterious creatures in the surrounding woods. Begged my parents to take me to see this in 3rd grade and then cried in the movie theatre when it got scary.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a0/The_Village_movie.jpg"
+},
+{
+  "id": "69",
+  "title": "Madame Web",
+  "genre": "Action",
+  "rating": 1,
+  "description": "A paramedic begins seeing glimpses of the future while trying to protect three young women from danger. Would watch Dakota Johnson paint a square room white idc.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Madame_Web_%28film%29_poster.jpg"
+},
+{
+  "id": "70",
+  "title": "Borderlands",
+  "genre": "Action",
+  "rating": 1,
+  "description": "A group of misfits travels across a chaotic planet in search of a mysterious vault.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Borderlands_Teaser_Poster.jpg"
+},
+{
+  "id": "71",
+  "title": "Cats",
+  "genre": "Musical",
+  "rating": 1,
+  "description": "A tribe of singing cats gathers for a strange competition to decide who will be given a new life. Harrowing. Do not watch this.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Cats_2019_poster.jpg"
+},
+{
+  "id": "72",
+  "title": "Argylle",
+  "genre": "Action",
+  "rating": 1,
+  "description": "A spy novelist is pulled into real espionage when her fictional stories begin matching actual events. Watched this right after watching The Witcher and was disgusted.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Argylle_poster.jpg"
+},
+{
+  "id": "73",
+  "title": "Winnie-the-Pooh: Blood and Honey",
+  "genre": "Horror",
+  "rating": 1,
+  "description": "A dark horror version of Winnie-the-Pooh turns familiar childhood characters into violent threats. Literally no reason on earth this should exist.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Winnie_the_Pooh%2C_Blood_and_Honey_Film_Poster.jpg"
+},
+{
+  "id": "74",
+  "title": "Obsession",
+  "genre": "Horror",
+  "rating": 5,
+  "description": "A gross selfish dude makes a wish on a magic stick asking for his crush to love him more than anyone in the world and it gets so bad I drove home in silence afterwards with my best friend. #TeamNikki. Poses the question of what happens when the woman can no longer choose the man OR the bear.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg"
+}
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
